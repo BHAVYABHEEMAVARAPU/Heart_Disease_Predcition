@@ -7,10 +7,6 @@ It consists of 303 rows and 14 columns, including features such as age, choleste
 The target variable (target):
 1 → Indicates the presence of heart disease.
 0 → Indicates no heart disease (healthy heart).
-# Data Preprocessing
-Load the dataset into a Pandas DataFrame.
-Display the first and last five rows to understand the structure.
-Check for missing values (none found).
 View basic statistical information about the dataset.
 # How to Run the Code
 Ensure all dependencies are installed (pip install numpy pandas scikit-learn).
